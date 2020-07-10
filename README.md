@@ -9,7 +9,7 @@ I'm Manthan Keim, I am a multi-disciplinary Developer living in New Delhi. I'm p
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about: tech, memes, anime
 - 😄 Pronouns: he/him
--  ⚡ Languages: Java, Kotlin, Python3
+-  ⚡ Languages: C++, Python3, Go
 
 
 > c'est la vie
