@@ -7,7 +7,7 @@ I'm Manthan Keim, I am a multi-disciplinary Developer living in New Delhi. I'm p
 
 - 🔭 I’m currently working on Djanjo.
 - 🌱 I’m currently learning JavaScript
-- 💬 Ask me about: tech, memes, anime
+- 💬 Ask me about: Data Scraping/Mining, tech, Peaky Blinders.
 - 😄 Pronouns: he/him
 -  ⚡ Languages: C++, Python3, Go
 
