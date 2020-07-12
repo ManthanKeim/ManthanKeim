@@ -6,7 +6,7 @@
 I'm Manthan Keim, I am a multi-disciplinary Developer living in New Delhi. I'm passionate about crafting digital experiences at the intersection of brand and product. I'm in my penultimate year of Bachelor of Technology majoring in Computer Science at Maharaja Agrasen Institute Of Technology. You can follow along on Facebook, Github, Gitlab, Instagram, LinkedIn, Medium, Twitter @manthankeim.
 
 - 🔭 I’m currently working on Djanjo.
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript.
 - 💬 Ask me about: Data Scraping/Mining, tech, Peaky Blinders.
 - 😄 Pronouns: he/him
 -  ⚡ Languages: C++, Python3, Go
