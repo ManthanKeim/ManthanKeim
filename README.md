@@ -1,1 +1,1 @@
-[![Welcome](https://manthankeim.tech/img/shotstash_0192.jpg)](https://manthankeim.tech)
+[![Welcome](https://raw.githubusercontent.com/ManthanKeim/ManthanKeim/master/Screenshot.png)](https://manthankeim.tech)
