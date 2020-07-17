@@ -1,5 +1,1 @@
-
-
-<a href="https://manthankeim.tech">
-  <img alt="Manthan Keim" width="220px" src="Screenshot.png" />
-</a>
+[![Welcome](https://manthankeim.tech/img/shotstash_0192.jpg)](https://manthankeim.tech)
