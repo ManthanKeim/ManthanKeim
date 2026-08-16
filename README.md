@@ -21,7 +21,7 @@
 
 - 🔧 **Day job:** Automation Engineer @ Zotec Partners (~2 years) — scripts, integrations, operational tooling
 - 📚 **Learning:** CI/CD pipelines, cloud automation, Python tooling, and system design fundamentals
-- 🌱 **Building in public:** Documenting learning in [`learning-log`](https://github.com/ManthanKeim/learning-log) *(coming soon)*
+- 🌱 **Building in public:** Weekly notes in [`learning-log`](https://github.com/ManthanKeim/learning-log)
 - 💼 **Open to:** New opportunities in automation, backend, platform, or data engineering — happy to connect
 
 ### About
