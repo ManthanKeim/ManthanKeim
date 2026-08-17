@@ -11,27 +11,27 @@ I design file-transfer automation, healthcare integrations, and Python/SQL tooli
 - Managed file transfer: GoAnywhere, MOVEit, SFTP
 - Healthcare integrations: HL7, partner onboarding, connection troubleshooting
 - Automation: Python scripts, SQL, log analysis, workflow reliability
-- Platform: Docker, GitHub Actions, Kubernetes / Crossplane (open source)
+- Platform: Docker, Terraform, GitHub Actions, Kubernetes / Crossplane (open source)
 
 ## Selected work
 
 | Repo | What it shows |
 | --- | --- |
+| [file-transfer-pipeline](https://github.com/ManthanKeim/file-transfer-pipeline) | Validate → transform → SFTP/local deliver, Terraform landing zones |
+| [hl7-toolkit](https://github.com/ManthanKeim/hl7-toolkit) | HL7 v2 parse/validate with structured error codes |
 | [learning-log](https://github.com/ManthanKeim/learning-log) | Weekly public notes on automation, CI/CD, and systems |
 | [resume](https://github.com/ManthanKeim/resume) | Current LaTeX resume |
 | [manthankeim.github.io](https://github.com/ManthanKeim/manthankeim.github.io) | Portfolio |
 | [contribfest](https://github.com/ManthanKeim/contribfest) | Crossplane / Kubernetes (KubeCon) |
-| [Reddit-Flair-Predictor](https://github.com/ManthanKeim/Reddit-Flair-Predictor) | Python NLP pipeline |
-| [MIDAS_Hiring_Task_Manthan](https://github.com/ManthanKeim/MIDAS_Hiring_Task_Manthan) | Python data processing |
 
 ## Currently
 
 - **Day job:** MFT / automation engineering at Zotec Partners
 - **Open source:** Crossplane documentation
-- **Learning in public:** [`learning-log`](https://github.com/ManthanKeim/learning-log)
+- **Labs:** [`file-transfer-pipeline`](https://github.com/ManthanKeim/file-transfer-pipeline) · [`hl7-toolkit`](https://github.com/ManthanKeim/hl7-toolkit)
 
 ## Stack
 
-`Python` · `SQL` · `SFTP` · `HL7` · `GoAnywhere` · `MOVEit` · `Docker` · `GitHub Actions`
+`Python` · `SQL` · `SFTP` · `HL7` · `GoAnywhere` · `MOVEit` · `Terraform` · `Docker` · `GitHub Actions`
 
 MS, Technology Leadership & Innovation — Purdue University
